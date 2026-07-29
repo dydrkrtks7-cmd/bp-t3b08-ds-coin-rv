@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-club-note.mens-esthe.space/sitemap.xml
